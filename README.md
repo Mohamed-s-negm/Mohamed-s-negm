@@ -14,4 +14,4 @@ I build projects integrating Unity, PlayFab, Firebase, and sensor systems.
 - Handwritten Digit Recognition with CRNN
 - Unity Game with Firebase & PlayFab Integration
 
-📫 Reach me: your-email@example.com
+📫 Reach me: msen6639@gmail.com
