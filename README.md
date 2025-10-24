@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohamed Shawky 👋
 
-<!--
-**Mohamed-s-negm/Mohamed-s-negm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent EEE graduate passionate about IoT, Embedded Systems, and AI.  
+I build projects integrating Unity, PlayFab, Firebase, and sensor systems.
 
-Here are some ideas to get you started:
+## Skills
+- C#, Python, MATLAB
+- Unity, Arduino, STM32, ESP32
+- PyTorch, Machine Learning, Signal Processing
+- PCB & Circuit Design, Fusion 360, Proteus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Smart Fridge AI Interface
+- Handwritten Digit Recognition with CRNN
+- Unity Game with Firebase & PlayFab Integration
+
+📫 Reach me: your-email@example.com
