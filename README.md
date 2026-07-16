@@ -69,4 +69,4 @@ A fully functional Unity-built game integrating real-time databases and backend 
 ## 📫 Let's Connect!
 
 * **Email:** [msen6639@gmail.com](mailto:msen6639@gmail.com)
-* **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+* **LinkedIn:** [www.linkedin.com/in/ms-negm](www.linkedin.com/in/ms-negm)
