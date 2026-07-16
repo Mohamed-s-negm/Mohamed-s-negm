@@ -48,7 +48,7 @@ A playground of fast-prototyped IoT applications simulated entirely in Wokwi.
 
 ### 🧠 AI & Software Integration
 
-#### 📱 [Smart Watch & Smart Fridge AI Interface](https://github.com/Mohamed-s-negm/smart_watch_x1) & (https://github.com/Mohamed-s-negm/smart-fridge-v1)
+#### 📱 [Smart Watch](https://github.com/Mohamed-s-negm/smart_watch_x1) & [Smart Fridge AI Interface](https://github.com/Mohamed-s-negm/smart-fridge-v1)
 An intelligent interface designed to process sensor data and offer smart, contextual user feedback.
 
 #### 🌸 [Flower Image Classification](https://github.com/Mohamed-s-negm/flower-dl-model)
